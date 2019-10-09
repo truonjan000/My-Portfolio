@@ -16,8 +16,8 @@ In the second assignment, I learned about how to use mouse interactivity to crea
 
 In the third assignment, I learned about the use of mouse interactivity in certain regions. In specific regions, when you clicked on a color they would use that color to draw. I created a generated four blocks of colors in the colors for the user to choose from. The user is abke to paint based on their own choice of color out of the ones provided. 
 
-![color](/color.png)
+![colors](/colors.png)
 
 In the fourth assignment, using my knowledge of shapes and colors, I added images using loops. The pictures were put into a loop so that it was on top of the circles that were also part of the loop. 
 
-![loop](/loop.png)
+![loops](/loops.png)
