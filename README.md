@@ -1,2 +1,2 @@
 # Janet Truong
-## Computer Science II
+### Computer Science II
