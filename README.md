@@ -33,4 +33,4 @@ This was another game that I made using p5.js. It was used for a part of my seme
 [Code](https://github.com/truonjan000/myPortfolio/blob/master/GiantLanternFestival.js)
 
 You can run both of the codes using this link:
-[Run]()
+[Run](https://github.com/truonjan000/myPortfolio/blob/master/run.html)
