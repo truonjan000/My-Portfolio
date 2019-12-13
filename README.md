@@ -26,8 +26,11 @@ In the fourth assignment, using my knowledge of shapes and colors, I added image
 **December 13th**
 ![incanclothing](/incanclothing.png)
 This is one of the games that I made using p5.js. This ame includes mouse interactivity and colors. It was one of the games that was used for my semester project. It was embedded into a map for a whole game. The code for this game is in the link below:
-[link1]()
+[Code]()
 
 ![GiantLanternFestival](/GiantLanternFestival.png)
 This was another game that I made using p5.js. It was used for a part of my semester project. This one is different from the one before, because it emphasizes on another country tradition. It is also embedded into a map using leaflet. The code that was used to program this is in the link below:
-[link2]()
+[Code]()
+
+You can run both of the codes using this link:
+[Run]()
