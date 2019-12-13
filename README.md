@@ -33,7 +33,6 @@ This is one of the games that I made using p5.js. This ame includes mouse intera
 This was another game that I made using p5.js. It was used for a part of my semester project. This one is different from the one before, because it emphasizes on another country tradition. It is also embedded into a map using leaflet. The code that was used to program this is in the link below:
 [Code](https://github.com/truonjan000/myPortfolio/blob/master/GiantLanternFestival.js)
 
-You can run both of the codes using this link:
-[Run for Incan Clothing]()
+You can run both of the codes using this link. Change the file name to run that program:
 
-[Run for Giant Lantern Festival](https://github.com/truonjan000/myPortfolio/blob/master/run.html)
+[Run](https://github.com/truonjan000/myPortfolio/blob/master/run.html)
