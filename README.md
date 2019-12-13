@@ -1,6 +1,7 @@
 # Janet Truong
-**Computer Science II**
+###Computer Science II
 
+**October 11th**
 For Computer Science II so far, I am learning the Javascript computer language. 
 You must have a file that could run another file by coordinating it. For example, I created a hello.html file. This coordinates the folder that has the file I would like to run. 
 
@@ -21,3 +22,12 @@ In the third assignment, I learned about the use of mouse interactivity in certa
 In the fourth assignment, using my knowledge of shapes and colors, I added images using loops. The pictures were put into a loop so that it was on top of the circles that were also part of the loop. 
 
 ![loops](/loops.png)
+
+**December 13th**
+![incanclothing](/incanclothing.png)
+This is one of the games that I made using p5.js. This ame includes mouse interactivity and colors. It was one of the games that was used for my semester project. It was embedded into a map for a whole game. The code for this game is in the link below:
+[link1]()
+
+![GiantLanternFestival](/GiantLanternFestival.png)
+This was another game that I made using p5.js. It was used for a part of my semester project. This one is different from the one before, because it emphasizes on another country tradition. It is also embedded into a map using leaflet. The code that was used to program this is in the link below:
+[link2]()
