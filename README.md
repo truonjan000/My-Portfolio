@@ -39,3 +39,5 @@ You can run both of the codes using this link. Change the file name to run that 
 
 **March 4th**
 
+So far this semester, we have been playing around with D3.js. This a JavaScript library that is used for visualizing data. The first easy task was to create a simple bar graph. There were some simple steps to change the color, and it gave a broad understanding of how the code is run to make the bar graph. This basic understanding helped foster the understanding of position. Of course, these 
+
