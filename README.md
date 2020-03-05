@@ -1,5 +1,5 @@
 # Janet Truong
-###Computer Science II
+### Computer Science II
 
 **October 11th**
 
