@@ -24,7 +24,6 @@ In the fourth assignment, using my knowledge of shapes and colors, I added image
 
 ![loops](/loops.png)
 
-
 **December 13th**
 ![incanclothing](/incanclothing.png)
 This is one of the games that I made using p5.js. This ame includes mouse interactivity and colors. It was one of the games that was used for my semester project. It was embedded into a map for a whole game. The code for this game is in the link below:
