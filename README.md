@@ -41,21 +41,14 @@ You can run both of the codes using this link. Change the file name to run that 
 
 So far this semester, we have been playing around with D3.js. This a JavaScript library that is used for visualizing data. The first easy task was to create a simple bar graph. There were some simple steps to change the color, and it gave a broad understanding of how the code is run to make the bar graph. This basic understanding helped foster the understanding of position.
 
-![Bar Graph 1](/)
-
-[Code 1]()
+![Bar Graph 1](/BarGraph1)
 
 _Above is a picture of the simple bar graph. Under, is the code that will run the code for the simple bar graph._
 
 Going on with D3.js, I was able to investigate even more and further the complexity of my code. With this, I was able to create a more advanced bar graph with my own data, use tooltip, duration, margins, generated axises, and change of colors.
 
-![Bar Graph 2](/)
-
-[Code 2]()
+![Bar Graph 2](/BarGraph2)
 
 _Above is a picture of the more complex bar graph. Under, is the code that can run the bar graph shown._
 
 I think that the skills that got from completing this task will really help me in my future projects. I thought it was really cool to know that I made a sort of "animated" graph. However, the worst part of this was, it took a lot of tries. Mostly when coding, you'll almost never get on the first try. There will always be some type of error. The hard thing is, it could be the smallest things that you didn't think you would mess up on. For example, misspelling something, putting the semicolon in the wrong place, or even having excess parenthesis, quotations, or brackets. This semester was the first time I didn't rely on someone else to code. I remember in Computer Science I, I would need a lot of help from a partner to code with python. Especially when we watched videos together, because they were hard to grasp on our own. However, this semester, I was able to watch the videos on my own and code by myself, and even helped my partner out. I think that was a big accomplishment. 
-
-
-
